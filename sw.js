@@ -1,4 +1,4 @@
-var GHPATH = '/PWAPP';
+var GHPATH = '/PWAAPP';
 var APP_PREFIX = 'MIRA';
 var VERSION = 'version_16';
 var URLS = [    
