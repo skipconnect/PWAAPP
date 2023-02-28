@@ -2,14 +2,14 @@
   "name": "MIRA",
   "short_name": "MIRA",
   "description": "Eath better and healthier",
-  "scope": "/PWAAP/",
-  "start_url": "/PWAAP/",
+  "scope": "/PWAAPP/",
+  "start_url": "/PWAAPP/",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
   "display": "standalone", 
   "icons": [
       {
-        "src": "/github-page-pwa/img/icon.png",
+        "src": "/PWAAPP/img/icon.png",
         "type": "image/png",
         "sizes": "700x700"
       }
