@@ -1,6 +1,6 @@
 var GHPATH = '/PWAAPP';
 var APP_PREFIX = 'MIRA';
-var VERSION = 'version_19';
+var VERSION = 'version_21';
 var URLS = [    
   `${GHPATH}/`,
   `${GHPATH}/index.html`,
